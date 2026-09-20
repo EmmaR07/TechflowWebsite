@@ -1,5 +1,5 @@
 # TechFlow Solutions Website
-
+[![Deploy to GitHub Pages](https://github.com/EmmaR07/TechflowWebsite/actions/workflows/deploy.yml/badge.svg)](https://github.com/EmmaR07/TechflowWebsite/actions/workflows/deploy.yml)
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
 ## Project Structure
@@ -87,3 +87,5 @@ This project is for educational purposes.
 ---
 
 *Built with ❤️ by the TechFlow Solutions team*
+
+thank you for working with me on this project! I had a lot of fun.
